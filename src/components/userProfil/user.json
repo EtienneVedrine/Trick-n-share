@@ -1,0 +1,22 @@
+[{
+    "id": 1,
+        "registration_date": "21/08/2023",
+        "pseudo": "Capitaine",
+        "profil_picture": "https://static.wikia.nocookie.net/lemondededisney/images/8/8a/Jack_Sparrow.jpg/revision/latest?cb=20120724084827&path-prefix=fr",
+        "firstname": "Jack",
+        "lastname": "Sparrow",
+        "presentation": "Bonjour je suis Jack Sparrow, je suis un pirate et j'aime les bateaux et les trésors. Comme compétence, je sais boire du rhum et naviguer. Je suis à la recherche d'un équipage pour m'accompagner dans mes aventures. Si vous êtes intéressé, contactez moi !",
+        "zip": "75000",
+        "city": "Port de Tortuga",
+        "adress": "56 rue de la tavern",
+        "email": "jack-sparrow@gmail.com",
+        "phone": "0606060606",
+        "skills": [
+                    {"skill": "Boire du rhum"},
+                    {"skill": "Naviguer"},
+                    {"skill": "Combattre"},
+                    {"skill": "Parler aux animaux"},
+                    {"skill": "Chercher des trésors"},
+                    {"skill": "Faire des blagues"}
+                ]
+}]

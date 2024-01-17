@@ -1,0 +1,25 @@
+
+header {
+    background: white
+}
+
+body {
+    background: linear-gradient(to right, rgb(255, 228, 230), rgb(204, 251, 241))
+}
+
+@keyframes slide-in-out {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  /* Appliquer l'animation au menu */
+  .burger-menu {
+    animation: slide-in-out 0.5s ease-in-out;
+  }
+  /* Inverser le sens de l'animation quand le menu n'est pas caché */
+  .burger-menu:not(.hidden) {
+    animation-direction: reverse;
+  }

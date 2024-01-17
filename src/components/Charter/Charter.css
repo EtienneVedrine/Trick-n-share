@@ -1,0 +1,19 @@
+h2.faq-section {
+font-style: italic;
+
+text-underline-offset: 4px;
+}
+
+p:hover {
+    text-decoration: none;
+    
+}
+
+li:hover {
+    text-decoration: none;
+    margin-top: 4px;
+}
+
+li {
+    margin-top: 4px;
+}

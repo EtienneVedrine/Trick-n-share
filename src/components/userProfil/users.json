@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "registration_date": "21/08/2023",
+        "pseudo": "Capitaine Jack Sparrow",
+        "profil_picture": "https://static.wikia.nocookie.net/lemondededisney/images/8/8a/Jack_Sparrow.jpg/revision/latest?cb=20120724084827&path-prefix=fr",
+        "firstname": "Jack",
+        "lastname": "Sparrow",
+        "presentation": "Bonjour je suis Jack Sparrow, je suis un pirate et j'aime les bateaux et les trésors. Comme compétence, je sais boire du rhum et naviguer. Je suis à la recherche d'un équipage pour m'accompagner dans mes aventures. Si vous êtes intéressé, contactez moi !",
+        "zipcode": "75000",
+        "city": "Port de Tortuga",
+        "adress": "56 rue de la tavern",
+        "email": "jack-sparrow@gmail.com",
+        "phone": "0606060606"
+    },
+
+    {
+        "id": 2,
+        "registration_date": "22/08/2023",
+        "pseudo": "indi",
+        "profil_picture": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/rem_16_9_1124w/2023/06/26/node_497527/13284173/public/2023/06/26/B9734614404Z.1_20230626100610_000%2BG1ON0VNH5.1-0.jpg?itok=FdbHUx1V1687766776",
+        "firstname": "indiana",
+        "lastname": "Jones",
+        "presentation": "Bonjour je suis Indiana Johns, je suis un aventurier et j'aime les trésors. Comme compétence, je sais faire du fouet. Je suis à la recherche d'une relique. Si vous êtes intéressé, contactez moi !",
+        "zipcode": "78563",
+        "city": "New-York",
+        "adress": "85 route du saint grall",
+        "email": "indiana-jones@gmail.com",
+        "phone": "060608936"  
+    },
+
+    {
+        "id": 3,
+        "registration_date": "23/08/2023",
+        "pseudo": "Dark Vador",
+        "profil_picture": "https://fr.web.img4.acsta.net/r_654_368/newsv7/20/09/24/15/36/1415597.jpg",
+        "firstname": "Anakin",
+        "lastname": "Skywalker",
+        "presentation": "Bonjour je suis Dark Vador, je suis un seigneur Sith et j'aime la force. Comme compétence, je sais faire du sabre laser. Je suis à la recherche d'un apprenti pour lui apprendre le coté obscur. Si vous êtes intéressé, contactez moi !",
+        "zipcode": "64589",
+        "city": "Mustafar",
+        "adress": "145 crète de la forteresse",
+        "email": "dark-vador@gmail.com",
+        "phone": "060607423"  
+    }
+]

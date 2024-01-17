@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgColorH {
+    background-color: #FDB620;
+}
+
+.sectionTitle  {
+    margin-bottom: -0.3rem;
+}
+
+.cordonnate {
+    margin-top: -0.3rem;
+    margin-bottom: -0.3rem;
+}
